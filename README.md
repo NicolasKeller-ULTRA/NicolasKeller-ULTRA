@@ -8,6 +8,7 @@ I am a Computer Engineer who specializes in data science and software engineerin
 I am driven by my passion for learning and growing my mind and skills every day through constant effort and a growth mindset! 🌱
 
 You can reach me at:
+
 email: nicolasbkeller@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/nicolasbkeller/
