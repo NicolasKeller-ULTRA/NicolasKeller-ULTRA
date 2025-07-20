@@ -9,7 +9,7 @@ I am driven by my passion for learning and growing my mind and skills every day 
 
 You can reach me at:
 
-email: nicolasbkeller@gmail.com
+Email: nicolasbkeller@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/nicolasbkeller/
 
