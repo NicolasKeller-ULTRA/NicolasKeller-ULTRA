@@ -9,7 +9,7 @@ I am driven by my passion for learning and growing my mind and skills every day 
 
 You can reach me at:
 email: nicolasbkeller@gmail.com
-LinkedIn: https://www.linkedin.com/in/nicolasbkeller/
+\n LinkedIn: https://www.linkedin.com/in/nicolasbkeller/
 
 <!--
 **NicolasKeller-ULTRA/NicolasKeller-ULTRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
